@@ -29,7 +29,7 @@ Following the calculation, a plot (on the xy plane) of the vehicle trajectory wi
   <img width="550" src="https://github.com/zachfrena/VehicleTrajectorySimulator/blob/main/vehicleTrajectoryPlot.JPG">
 </p>
 
-## The math and trigonometry used to calculate the vehicles trajectory after a single step is shown below:
+## The math and trigonometry used to calculate the vehicle's trajectory after a single step is shown below:
 <p align="center">
   <img width="550" src="https://github.com/zachfrena/VehicleTrajectorySimulator/blob/main/vehicleTrajectoryMath.jpg">
 </p>
